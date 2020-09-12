@@ -3,3 +3,5 @@ def square_array(array)
   array.each do |array|
     puts ("Exponent:")
 end
+
+square_array
