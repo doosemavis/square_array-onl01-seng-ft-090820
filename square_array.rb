@@ -5,3 +5,4 @@ def square_array(array)
   return new_numbers
 end
 
+square_array
